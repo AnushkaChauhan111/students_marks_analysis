@@ -45,8 +45,7 @@ This NumPy Project analyses the marks scored out of 100 by 50 students in 3 subj
 
 This project is based on only NumPy operations, no Pandas or Matplotlib  used
 
-## WHY I BUILT THIS PROJECT:
-
+## WHY I BUILT THIS PROJECT
 
 To practice NumPy indexing, iteration, mathematical operations, axis operations without Pandas.
 
